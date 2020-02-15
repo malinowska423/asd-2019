@@ -1,0 +1,57 @@
+insert hejo | value inserted
+insert gol | value inserted
+insert tak | value inserted
+insert down | value inserted
+Operation not found
+insert heheh | value inserted
+insert lalala | value inserted
+insert no | value inserted
+insert elo | value inserted
+insert AHA | value inserted
+insert siema | value inserted
+insert dhb | value inserted
+insert cotam | value inserted
+insert 28 | value inserted
+insert zycie | value inserted
+
+search for hejo | true
+search for gol | true
+search for tak | true
+search for down | true
+Operation not found
+search for heheh | true
+search for lalala | true
+search for no | true
+search for elo | true
+search for AHA | true
+search for siema | true
+search for dhb | true
+search for cotam | true
+search for 28 | true
+search for zycie | true
+
+inorder | 28 AHA cotam dhb down elo gol heheh hejo lalala no siema tak zycie 
+
+search for yyyw | false
+delete hejo | value deleted
+delete gol | value deleted
+delete tak | value deleted
+delete down | value deleted
+Operation not found
+delete heheh | value deleted
+delete lalala | value deleted
+delete no | value deleted
+delete elo | value deleted
+delete AHA | value deleted
+delete siema | value deleted
+delete dhb | value deleted
+delete cotam | value deleted
+delete 28 | value deleted
+delete zycie | value deleted
+
+inorder | 
+
+insert fhfh | value inserted
+search for fhfh | true
+inorder | fhfh 
+

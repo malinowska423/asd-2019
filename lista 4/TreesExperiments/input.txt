@@ -1,0 +1,11 @@
+10
+insert jd
+insert bs
+insert od
+insert nns
+insert zm
+inorder
+search od
+delete am
+delete nns
+inorder
